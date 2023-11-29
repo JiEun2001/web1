@@ -3682,7 +3682,11 @@ img.u-pull-left {
 .s-about__stats-item {
     margin-bottom : var(--vspace-1);
 }
-
+.s-about__picture {
+    width: 70%;
+    text-align: right;
+    border-radius: 20%;
+}
 .s-about__stats-count {
     font-family    : var(--font-1);
     font-weight    : 600;
